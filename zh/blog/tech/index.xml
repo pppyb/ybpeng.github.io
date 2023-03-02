@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术 🔧 on Kunyang&#39;s Blog</title>
-    <link>https://kyxie.github.io/zh/blog/tech/</link>
-    <description>Recent content in 技术 🔧 on Kunyang&#39;s Blog</description>
+    <link>https://ybpeng.github.io/zh/blog/tech/</link>
+    <description>Recent content in 技术 🔧 on Yibo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 11 Jun 2022 21:59:32 -0400</lastBuildDate><atom:link href="https://kyxie.github.io/zh/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 21:59:32 -0400</lastBuildDate><atom:link href="https://ybpeng.github.io/zh/blog/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo &#43; PaperMod搭建技术博客</title>
-      <link>https://kyxie.github.io/zh/blog/tech/papermod/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/papermod/</link>
       <pubDate>Fri, 15 Apr 2022 00:28:55 -0400</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/papermod/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/papermod/</guid>
       <description>安装过程 首先需要安装Hugo，安装Hugo需要利用一个包管理工具，对于Windows系统Hugo推荐了两个包管理工具，Chocolatey和</description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://kyxie.github.io/zh/blog/tech/java/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/java/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/java/</guid>
       <description>Character 判断是否为字母或数字： boolean res = Character.isLetterOrDigit(char); 转小写： char res = Character.toLowerCase(char); 下一个字符： &amp;#39;b&amp;#39; == (char) (&amp;#39;a&amp;#39; + 1); Integer 最大值最小值： int max = Integer.MAX_VALUE; int min = Integer.MIN_VALUE; 比较相等： Integer a = 1; Integer b = 1; a == b; // true</description>
     </item>
     
     <item>
       <title>Cpp</title>
-      <link>https://kyxie.github.io/zh/blog/tech/cpp/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/cpp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kyxie.github.io/zh/blog/tech/cpp/</guid>
@@ -36,37 +36,37 @@
     
     <item>
       <title>算法和数据结构</title>
-      <link>https://kyxie.github.io/zh/blog/tech/algorithm/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/algorithm/</link>
       <pubDate>Sat, 30 Jul 2022 22:56:48 -0400</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/algorithm/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/algorithm/</guid>
       <description>链表 数据结构 public class ListNode { int val; ListNode next; ListNode() {} ListNode (int val) { this.val = val; } ListNode (int val, ListNode next) { this.val = val; this.next = next; } } 反转链表： public ListNode reverse(ListNode head) { ListNode prev = null; ListNode curr = head; while (curr != null) { ListNode temp = curr.next; curr.next = prev; prev =</description>
     </item>
     
     <item>
       <title>Automator</title>
-      <link>https://kyxie.github.io/zh/blog/tech/automator/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/automator/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:17 -0400</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/automator/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/automator/</guid>
       <description>体验了一段时间的MacOs，不得不说MacOs真的是傻逼，右键在特定文件夹打开Terminal和新建文件这两个功能都没有，好在Mac有Aut</description>
     </item>
     
     <item>
       <title>二分查找</title>
-      <link>https://kyxie.github.io/zh/blog/tech/binarysearch/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/binarysearch/</link>
       <pubDate>Tue, 07 Jun 2022 09:17:27 -0400</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/binarysearch/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/binarysearch/</guid>
       <description>左闭右闭 704. 二分查找 - 力扣（LeetCode）这是最基本的二分法，左闭右闭的意思是左边边界和右边边界都是可以取到的，比如[1, 1]是一个合法的</description>
     </item>
     
     <item>
       <title>背包问题</title>
-      <link>https://kyxie.github.io/zh/blog/tech/backpack/</link>
+      <link>https://ybpeng.github.io/zh/blog/tech/backpack/</link>
       <pubDate>Fri, 27 May 2022 17:28:17 -0400</pubDate>
       
-      <guid>https://kyxie.github.io/zh/blog/tech/backpack/</guid>
+      <guid>https://ybpeng.github.io/zh/blog/tech/backpack/</guid>
       <description>这几天要被背包问题给搞疯了，打算写篇文章仔细回顾回顾这一类问题。 01背包 背包问题是指，有n件物品和最大容量为w的背包，每件物品的质量被记录在</description>
     </item>
     
