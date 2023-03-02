@@ -1,3 +1,3 @@
 ## My Personal Website
 
-Here to view: [PPPyb (Ybpeng.github.io)](https://Ybpeng.github.io/en/)
+Here to view: [PPPyb (ybpeng.github.io)](https://ybpeng.github.io/en/)
